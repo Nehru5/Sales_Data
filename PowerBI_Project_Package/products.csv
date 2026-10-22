@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,UnitCost,Supplier,StockQty
+P001,Altura Bookcase Max,Furniture,Bookcases,,4870.0,4096.45,BlueOak Supplies,334
+P002,Kraftline Bookcase Plus,Furniture,Bookcases,Kraftline,10890.0,8603.44,Apex Distributors,465
+P003,Altura Bookcase Lite,Furniture,Bookcases,Orbitek,16960.0,13994.27,BlueOak Supplies,162
+P004,Vistro Bookcase Max,Furniture,Bookcases,Primeo,2960.0,1910.99,Apex Distributors,381
+P005,Kraftline Notebook Lite,Office Supplies,Notebooks,Primeo,401.0,233.39,Greenfield Exports,290
+P006,Altura Bookcase Lite,Furniture,Bookcases,Ecoline,6100.0,4612.9,BlueOak Supplies,
+P007,Vistro Air Fryer Max,Home & Kitchen,Air Fryers,Ecoline,8850.0,5355.96,BlueOak Supplies,83
+P008,Zenix Chair Plus,Furniture,Chairs,Vistro,1940.0,1511.96,BlueOak Supplies,380
+P009,Ecoline Chair Classic,Furniture,Chairs,Ecoline,2390.0,1979.23,Metro Wholesale,443
+P010,Vistro Mixer Grinder Plus,Home & Kitchen,Mixer Grinders,Vistro,4280.0,3350.66,Greenfield Exports,480
+P011,Zenix Smartphone Pro,Electronics,Smartphones,,31480.0,25124.28,Sunrise Traders,285
+P012,Novara Air Fryer Plus,Home & Kitchen,Air Fryers,Ecoline,9890.0,8295.51,Apex Distributors,452
+P013,Zenix Printer Classic,Office Supplies,Printers,Kraftline,14230.0,9629.99,Apex Distributors,424
+P014,Kraftline Mixer Grinder Max,Home & Kitchen,Mixer Grinders,Vistro,6200.0,3620.5,Metro Wholesale,230
+P015,Novara Laptop Max,Electronics,Laptops,Orbitek,70830.0,58008.73,Metro Wholesale,165
+P016,Ecoline Bookcase Plus,Furniture,Bookcases,Orbitek,13870.0,8007.95,Greenfield Exports,362
+P017,Kraftline Air Fryer Max,Home & Kitchen,Air Fryers,Vistro,10120.0,7119.42,Sunrise Traders,393
+P018,Kraftline Table Pro,Furniture,Tables,Kraftline,18270.0,13663.39,BlueOak Supplies,393
+P019,Ecoline Smartwatche Plus,Electronics,Smartwatches,Kraftline,9090.0,6990.65,Sunrise Traders,460
+P020,Zenix Chair Max,Furniture,Chairs,Ecoline,1550.0,1208.41,,278
+P021,Ecoline Smartwatche Max,Electronics,Smartwatches,Vistro,7470.0,5428.14,,40
+P022,Novara Laptop Lite,Electronics,Laptops,Kraftline,109400.0,69297.67,BlueOak Supplies,28
+P023,Primeo Notebook Plus,Office Supplies,Notebooks,Orbitek,115.0,64.37,,55
+P024,Kraftline Mixer Grinder Max,Home & Kitchen,Mixer Grinders,Altura,2550.0,1620.05,Sunrise Traders,47
+P025,Orbitek Printer Max,Office Supplies,Printers,Orbitek,12370.0,8209.74,Metro Wholesale,241
+P026,Vistro Chair Classic,Furniture,Chairs,Novara,10880.0,6879.7,BlueOak Supplies,313
+P027,Orbitek Smartphone Max,Electronics,Smartphones,Primeo,37710.0,31819.89,,311
+P028,Altura Printer Pro,Office Supplies,Printers,Ecoline,15510.0,13160.35,Greenfield Exports,373
+P029,Novara Cookware Plus,Home & Kitchen,Cookware,Novara,5000.0,4075.5,Sunrise Traders,60
+P030,Novara Smartwatche Classic,Electronics,Smartwatches,Vistro,16390.0,9594.34,Apex Distributors,23
+P031,Zenix Printer Pro,Office Supplies,Printers,Primeo,16210.0,12015.68,Metro Wholesale,404
+P032,Zenix Headphone Lite,Electronics,Headphones,Altura,4850.0,3467.74,Metro Wholesale,202
+P033,Ecoline Laptop Max,Electronics,Laptops,Zenix,47460.0,37975.0,BlueOak Supplies,246
+P034,Altura Bookcase Max,Furniture,Bookcases,,9640.0,7804.23,Sunrise Traders,427
+P035,Zenix Stationery Kit Pro,Office Supplies,Stationery Kits,Altura,1500.0,966.98,Metro Wholesale,33
+P036,Vistro Table Classic,Furniture,Tables,Kraftline,25700.0,16749.87,Greenfield Exports,310
+P037,Primeo Mixer Grinder Plus,Home & Kitchen,Mixer Grinders,Zenix,5370.0,4346.36,,211
+P038,Primeo Smartwatche Pro,Electronics,Smartwatches,Primeo,22170.0,14664.9,BlueOak Supplies,57
+P039,Ecoline Notebook Classic,Office Supplies,Notebooks,Zenix,400.0,329.6,Apex Distributors,463
+P040,Primeo Chair Plus,Furniture,Chairs,Kraftline,6090.0,4232.8,,420
+P041,Orbitek Chair Lite,Furniture,Chairs,Primeo,11280.0,7758.5,Sunrise Traders,351
+P042,Primeo Headphone Lite,Electronics,Headphones,Primeo,7270.0,4099.13,BlueOak Supplies,164
+P043,Ecoline Chair Lite,Furniture,Chairs,Primeo,5370.0,3811.0,BlueOak Supplies,
+P044,Orbitek Notebook Pro,Office Supplies,Notebooks,Altura,57.0,42.0,Greenfield Exports,163
+P045,Novara Notebook Pro,Office Supplies,Notebooks,Orbitek,474.0,375.03,Metro Wholesale,313
+P046,Ecoline Stationery Kit Lite,Office Supplies,Stationery Kits,Orbitek,1000.0,589.02,Apex Distributors,27
+P047,Ecoline Smartwatche Classic,Electronics,Smartwatches,Altura,11010.0,8383.05,Metro Wholesale,
+P048,Orbitek Bookcase Max,Furniture,Bookcases,Kraftline,14260.0,11305.18,Sunrise Traders,416
+P049,Ecoline Mixer Grinder Max,Home & Kitchen,Mixer Grinders,Novara,4460.0,,BlueOak Supplies,73
+P050,Altura Printer Plus,Office Supplies,Printers,Ecoline,12840.0,9756.92,Apex Distributors,15
+P051,Kraftline Smartwatche Plus,Electronics,Smartwatches,Altura,4600.0,3190.54,Greenfield Exports,294
+P052,Orbitek Bookcase Plus,Furniture,Bookcases,Orbitek,4100.0,3260.59,Metro Wholesale,272
+P053,Novara Cookware Classic,Home & Kitchen,Cookware,Kraftline,3870.0,2405.49,Apex Distributors,196
+P054,Vistro Headphone Max,Electronics,Headphones,Altura,3520.0,2668.93,Greenfield Exports,355
+P055,Ecoline Chair Lite,Furniture,Chairs,Ecoline,10450.0,5991.7,,
+P056,Orbitek Smartwatche Classic,Electronics,Smartwatches,Orbitek,6050.0,5062.43,Greenfield Exports,394
+P057,Orbitek Cookware Pro,Home & Kitchen,Cookware,Kraftline,3370.0,2520.93,Greenfield Exports,462
+P058,Primeo Laptop Max,Electronics,Laptops,Ecoline,89480.0,,BlueOak Supplies,105
+P059,Primeo Printer Max,Office Supplies,Printers,,16410.0,13521.2,Sunrise Traders,
+P060,Zenix Smartwatche Plus,Electronics,Smartwatches,,21500.0,17323.66,Sunrise Traders,360
+P061,Novara Notebook Max,Office Supplies,Notebooks,Vistro,438.0,354.65,Metro Wholesale,364
+P062,Kraftline Cookware Max,Home & Kitchen,Cookware,Kraftline,2780.0,,BlueOak Supplies,284
+P063,Kraftline Cookware Pro,Home & Kitchen,Cookware,Zenix,5170.0,,Sunrise Traders,331
+P064,Vistro Laptop Pro,Electronics,Laptops,Orbitek,94920.0,66065.31,BlueOak Supplies,328
+P065,Vistro Cookware Classic,Home & Kitchen,Cookware,Kraftline,5450.0,4134.46,Apex Distributors,260
+P066,Novara Air Fryer Pro,Home & Kitchen,Air Fryers,Vistro,10380.0,,Greenfield Exports,3
+P067,Vistro Air Fryer Classic,Home & Kitchen,Air Fryers,Altura,5130.0,,Sunrise Traders,500
+P068,Ecoline Smartwatche Lite,Electronics,Smartwatches,Kraftline,18210.0,10633.72,Greenfield Exports,439
+P069,Orbitek Printer Pro,Office Supplies,Printers,Ecoline,15340.0,10845.49,Sunrise Traders,350
+P070,Zenix Stationery Kit Max,Office Supplies,Stationery Kits,Ecoline,290.0,189.39,Greenfield Exports,463
+P071,Primeo Air Fryer Plus,Home & Kitchen,Air Fryers,Kraftline,9600.0,6492.53,Sunrise Traders,355
+P072,Ecoline Stationery Kit Classic,Office Supplies,Stationery Kits,Kraftline,1610.0,1011.29,Greenfield Exports,26
+P073,Orbitek Stationery Kit Pro,Office Supplies,Stationery Kits,Orbitek,1320.0,839.58,Metro Wholesale,129
+P074,Zenix Bookcase Lite,Furniture,Bookcases,Kraftline,6860.0,5538.47,Greenfield Exports,378
+P075,Primeo Bookcase Pro,Furniture,Bookcases,Ecoline,9420.0,7463.96,BlueOak Supplies,409
+P076,Kraftline Headphone Max,Electronics,Headphones,Vistro,14770.0,12409.81,Apex Distributors,121
+P077,Altura Air Fryer Lite,Home & Kitchen,Air Fryers,,8740.0,5359.87,Sunrise Traders,26
+P078,Novara Table Max,Furniture,Tables,Vistro,13770.0,8818.45,Apex Distributors,134
+P079,Ecoline Bookcase Max,Furniture,Bookcases,Altura,15990.0,8851.41,Greenfield Exports,349
+P080,Vistro Smartphone Classic,Electronics,Smartphones,Primeo,55720.0,41301.18,Metro Wholesale,138
+P081,Ecoline Notebook Pro,Office Supplies,Notebooks,Novara,165.0,119.67,Greenfield Exports,172
+P082,Orbitek Table Lite,Furniture,Tables,Vistro,17790.0,13375.24,Sunrise Traders,268
+P083,Primeo Smartwatche Pro,Electronics,Smartwatches,Zenix,10080.0,7737.16,Sunrise Traders,317
+P084,Novara Smartphone Classic,Electronics,Smartphones,Orbitek,56800.0,42428.56,Sunrise Traders,44
+P085,Kraftline Table Lite,Furniture,Tables,Kraftline,20720.0,16989.76,,150
+P086,Primeo Air Fryer Max,Home & Kitchen,Air Fryers,Altura,11430.0,,Metro Wholesale,82
+P087,Altura Headphone Lite,Electronics,Headphones,Primeo,11770.0,7825.16,Metro Wholesale,91
+P088,Vistro Mixer Grinder Pro,Home & Kitchen,Mixer Grinders,Ecoline,4700.0,3894.31,Sunrise Traders,73
+P089,Ecoline Mixer Grinder Plus,Home & Kitchen,Mixer Grinders,Orbitek,5490.0,3194.49,Sunrise Traders,37
+P090,Ecoline Headphone Pro,Electronics,Headphones,,11770.0,6539.76,Sunrise Traders,340
+P091,Vistro Cookware Classic,Home & Kitchen,Cookware,Zenix,1590.0,1031.83,,362
+P092,Orbitek Cookware Classic,Home & Kitchen,Cookware,Novara,3070.0,2465.87,Sunrise Traders,
+P093,Altura Mixer Grinder Plus,Home & Kitchen,Mixer Grinders,Primeo,5190.0,4310.36,Apex Distributors,28
+P094,Orbitek Headphone Max,Electronics,Headphones,Primeo,8250.0,6915.79,BlueOak Supplies,90
+P095,Vistro Smartwatche Lite,Electronics,Smartwatches,,17200.0,11002.17,Apex Distributors,43
+P096,Zenix Air Fryer Classic,Home & Kitchen,Air Fryers,Novara,4710.0,2640.94,Apex Distributors,
+P097,Ecoline Headphone Lite,Electronics,Headphones,Zenix,7750.0,6506.02,,28
+P098,Ecoline Stationery Kit Classic,Office Supplies,Stationery Kits,Kraftline,280.0,163.93,Greenfield Exports,119
+P099,Zenix Smartphone Max,Electronics,Smartphones,Zenix,46240.0,32213.95,,359
+P100,Primeo Chair Lite,Furniture,Chairs,Ecoline,3830.0,2163.9,Greenfield Exports,87
+P101,Novara Smartphone Lite,Electronics,Smartphones,Novara,13940.0,10155.2,Apex Distributors,172
+P102,Kraftline Cookware Plus,Home & Kitchen,Cookware,Novara,1430.0,1079.97,Sunrise Traders,303
+P103,Vistro Table Pro,Furniture,Tables,Altura,4710.0,2977.51,,84
+P104,Orbitek Mixer Grinder Classic,Home & Kitchen,Mixer Grinders,Vistro,7520.0,4227.82,BlueOak Supplies,8
+P105,Orbitek Mixer Grinder Classic,Home & Kitchen,Mixer Grinders,Primeo,1540.0,929.89,Apex Distributors,355
+P106,Primeo Air Fryer Classic,Home & Kitchen,Air Fryers,Ecoline,4140.0,2454.72,Apex Distributors,122
+P107,Ecoline Bookcase Classic,Furniture,Bookcases,Orbitek,13220.0,9635.81,Metro Wholesale,178
+P108,Orbitek Mixer Grinder Classic,Home & Kitchen,Mixer Grinders,,5130.0,3116.84,Greenfield Exports,259
+P109,Primeo Table Lite,Furniture,Tables,,23800.0,17797.6,Sunrise Traders,407
+P110,Ecoline Bookcase Pro,Furniture,Bookcases,Kraftline,15580.0,12829.28,Sunrise Traders,27
+P111,Ecoline Printer Lite,Office Supplies,Printers,Orbitek,9190.0,5747.56,Sunrise Traders,473
+P112,Orbitek Chair Lite,Furniture,Chairs,Novara,12100.0,8415.77,Apex Distributors,303
+P113,Altura Printer Pro,Office Supplies,Printers,Orbitek,8980.0,6762.44,Metro Wholesale,116
+P114,Vistro Laptop Pro,Electronics,Laptops,Orbitek,96400.0,78177.11,Apex Distributors,299
+P115,Ecoline Mixer Grinder Pro,Home & Kitchen,Mixer Grinders,Vistro,7290.0,,Metro Wholesale,69
+P116,Primeo Air Fryer Pro,Home & Kitchen,Air Fryers,Altura,4750.0,3123.49,BlueOak Supplies,16
+P117,Ecoline Headphone Max,Electronics,Headphones,Kraftline,2480.0,1997.63,Metro Wholesale,112
+P118,Kraftline Stationery Kit Classic,Office Supplies,Stationery Kits,Novara,480.0,378.42,Sunrise Traders,210
+P119,Primeo Mixer Grinder Lite,Home & Kitchen,Mixer Grinders,Vistro,5350.0,4285.87,BlueOak Supplies,126
+P120,Kraftline Printer Classic,Office Supplies,Printers,Zenix,16590.0,13563.1,Apex Distributors,22
