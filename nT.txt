@@ -1,0 +1,141 @@
+						NUMPY – PRACTICAL TASKS
+
+					Part 1: Creating Arrays
+					
+1. Student Marks Analyzer
+•	Convert the Python list [85, 90, 76, 95, 88] into a NumPy array.
+•	Display all student marks.
+•	Find the highest and lowest marks.
+•	Calculate the total marks.
+•	Add 5 bonus marks to every student.
+
+2. Daily Temperature Tracker
+•	A weather station records temperatures for 7 days: [28, 30, 32, 29, 31, 27, 33].
+•	Create a NumPy array and display it.
+•	Find the maximum and minimum temperatures.
+•	Calculate the total of all recorded temperatures.
+•	Display temperatures above 30°C.
+
+3. Movie Ticket Sales
+•	A theatre records ticket sales for 5 days: [120, 150, 90, 200, 180].
+•	Convert the list into a NumPy array.
+•	Find the total number of tickets sold.
+•	Find the highest and lowest daily sales.
+•	Increase every day's sales value by 20.
+
+4. Create a 2D Student Marks Array
+•	Create a 2D NumPy array using the marks below:
+•	[[85, 90, 78], [76, 88, 92], [95, 89, 84]]
+•	Display the marks of the second student.
+•	Display the marks of the third subject.
+•	Find the total, maximum and minimum marks.
+
+5. Create a 3D Sales Array
+•	A company records sales for 2 branches, 3 months and 2 products.
+•	Create a 3D NumPy array using your own values.
+•	Display the complete array.
+•	Display sales of the first branch and the second month.
+•	Find the maximum and minimum sales.
+
+					Part 2: Array Initialization
+
+6. Hospital Bed Management System
+•	A hospital has 10 beds. Create an array of 10 zeros using zeros().
+•	Consider 0 as Available and 1 as Occupied.
+•	Update 4 beds as occupied.
+•	Display the available beds and count the occupied beds.
+
+7. Student Attendance System
+•	Create an array of 7 ones using ones() to represent 7 students.
+•	Consider 1 as Present and 0 as Absent.
+•	Mark 2 students as absent.
+•	Display the attendance array and count the present and absent students.
+
+8. Product ID Generator
+•	A company wants product IDs from 101 to 120.
+•	Generate the IDs using arange().
+•	Display the first 5 and last 5 product IDs.
+•	Extract product IDs from 110 to 115.
+
+9. Generate Equally Spaced Salary Values
+•	Generate 10 salary values between ₹10,000 and ₹1,00,000 using linspace().
+•	Display the generated values.
+•	Find the maximum and minimum salary values.
+•	Calculate the sum of all generated values.
+
+10. Employee ID Matrices
+•	Create a 5 × 5 identity matrix.
+•	Create a 4 × 4 diagonal matrix using your own values.
+•	Display both matrices.
+•	Extract and display the diagonal elements.
+
+				Part 3: Random Arrays and Array Manipulation
+				
+11. Random OTP Generator
+•	Generate 10 random integers between 1000 and 9999.
+•	Display all generated numbers.
+•	Find the maximum and minimum numbers.
+•	Generate another array containing 5 random numbers.
+
+12. Reshape an E-Commerce Sales Array
+•	Use the following sales array:
+•	[120, 150, 180, 200, 160, 170, 210, 230, 190, 250, 270, 300]
+•	Reshape the array into a 3 × 4 matrix.
+•	Reshape it into a 4 × 3 matrix.
+•	Find the total sales and the highest sales value.
+
+13. Flatten a Monthly Sales Report
+•	Create a 2D array using the sales records below:
+•	[[1000, 2000, 1500, 1800], [2200, 2500, 2100, 2300], [1800, 1900, 2000, 2400]]
+•	Convert the 2D array into a 1D array using flatten().
+•	Find the total, maximum and minimum sales.
+
+14. Transpose a Student Marks Table
+•	Create a 2D array using the marks below:
+•	[[85, 90, 78], [76, 88, 92], [95, 89, 84]]
+•	Display the original array.
+•	Find the transpose using .T.
+•	Observe and explain the change in rows and columns.
+
+15. Combine Department Sales Reports
+•	Create two arrays: sales1 = [1000, 2000, 3000] and sales2 = [1500, 2500, 3500].
+•	Combine both arrays using concatenate().
+•	Combine them vertically and horizontally.
+•	Split the combined array into two arrays using split().
+
+				Part 4: Appending, Inserting and Deleting
+
+16. Add New Products to Inventory
+•	Start with products = [101, 102, 103, 104, 105].
+•	Add product ID 106 using append().
+•	Add two more product IDs.
+•	Display the updated inventory and find the maximum and minimum IDs.
+
+17. Remove Discontinued Products
+•	Start with products = [101, 102, 103, 104, 105, 106].
+•	Delete the product at index 2 using delete().
+•	Delete the last two products.
+•	Display the updated array and count the remaining products.
+
+18. Insert a New Student into the Marks List
+•	Start with marks = [85, 90, 76, 95, 88].
+•	Insert 92 at index 2 using insert().
+•	Insert 80 at the beginning and 99 at the end.
+•	Display the updated marks and find the maximum and minimum marks.
+
+					Part 5: Mini Challenges
+19. Smart Parking Lot Management
+•	A shopping mall has 12 parking slots. Create an array using zeros().
+•	Consider 0 as Available and 1 as Occupied.
+•	Randomly assign some slots as occupied.
+•	Display the available and occupied slots.
+•	Count the occupied slots.
+•	Add 3 new parking slots and delete one slot that is under maintenance.
+
+20. IPL Team Performance Analyzer
+•	Use the runs array: [180, 210, 165, 195, 230, 175, 200, 145, 220, 190].
+•	Find the total runs, highest score and lowest score.
+•	Reshape the array into a 2 × 5 matrix and find its transpose.
+•	Add 10 bonus runs to every match.
+•	Insert a new match score of 205.
+•	Delete the lowest-scoring match and display the final match records.
